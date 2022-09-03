@@ -1,7 +1,7 @@
 # vrp_jobs
 Some jobs for vrp_jobs. Code has a lot of if statements because I was too lazy to make loops and a config file.
 
-Requires https://github.com/Mobius1/rprogress
+Requires https://github.com/Mobius1/rprogress and uses a modified dpemotes version that I don't have anymore
 
 # the jobs
 ## vrp_miner
